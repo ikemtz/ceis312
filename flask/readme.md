@@ -6,4 +6,10 @@
    2. Run the following code:
    ```
   pip install tensorflow
+  pip install pandas
    ```
+
+# Running the site
+```
+python -m flask run
+```
