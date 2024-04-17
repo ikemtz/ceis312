@@ -13,3 +13,8 @@
 ```
 python -m flask run
 ```
+
+# Executing predictions
+From your browser, navigate to: http://localhost:5000/?x={YOUR_INTEGER_VALUE_HERE}
+
+For example, try the following: http://localhost:5000/?x=7
