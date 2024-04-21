@@ -28,8 +28,9 @@ For example, try the following: <http://localhost:8000/?x=7>
 
 ## Using the Docker Image
 
-Run the following command:
 [Docker Image](https://hub.docker.com/r/ikemtz/tensor-flask-demo)
+
+Run the following command:
 
 ```shell
 docker pull ikemtz/tensor-flask-demo:latest

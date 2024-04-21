@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request
 import pandas as pd
 import tensorflow as tf
 app = Flask(__name__)
